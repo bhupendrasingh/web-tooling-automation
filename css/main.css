@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  background-color: #AE501D; }
+
+h1 {
+  color: #FF8442;
+  margin: 1em auto;
+  margin-bottom: 2em;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 5em; }
