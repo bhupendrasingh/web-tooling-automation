@@ -1,0 +1,25 @@
+{
+  "name": "web-tooling-automation",
+  "version": "1.0.0",
+  "description": "Gulp experiments",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupendrasingh/web-tooling-automation.git"
+  },
+  "author": "bhupendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupendrasingh/web-tooling-automation/issues"
+  },
+  "homepage": "https://github.com/bhupendrasingh/web-tooling-automation#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
